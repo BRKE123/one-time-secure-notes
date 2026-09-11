@@ -203,14 +203,17 @@ This project is built and maintained as a BRKE project.
 
 ## 📜 License
 
-This project currently has no explicit open-source license.
+This project is licensed under the **MIT License**.
 
-If you plan to allow others to reuse, modify, or redistribute the code, add a license that matches your intended terms.
+You are free to use, copy, modify, merge, publish, distribute, sublicense,
+and sell copies of the software, subject to the terms of the MIT License.
+
+See the [LICENSE](LICENSE) file for the complete license.
 
 ---
 
 <p align="center">
-  <strong>🔐 Private by design. Disposable by default.</strong>
+  🔐 <strong>Private by design. Disposable by default.</strong>
   <br><br>
   <sub>Created by BRKE</sub>
 </p>
