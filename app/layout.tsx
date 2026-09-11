@@ -3,7 +3,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "One-Time Secure Notes",
-  description: "Encrypted messages that can only be viewed once.",
+  description:
+    "Send encrypted notes that can only be opened once.",
 };
 
 export default function RootLayout({
